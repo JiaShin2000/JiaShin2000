@@ -12,12 +12,12 @@
 
 - 📩 You can reach me via [email](mailto:jiashin1644@gmail.com)
 
-<h3 align="left">🤝 Connect With Me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jiashin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jackson" height="30" width="30" /></a>
-</p>
+# Connect With Me 🤝
 
-<h3 align="left">💻 Languages and Tools</h3>
+<a href="https://www.linkedin.com/in/jiashin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jackson" height="30" width="30" /></a>
+
+# Languages and Tools 💻
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="10" />
@@ -42,7 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-<h3 align="left">📊 GitHub Stats</h3>
+# GitHub Stats 📊
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JiaShin2000&show_icons=true&locale=en&layout=compact" alt="JiaShin2000" height="200" />
 
