@@ -45,11 +45,9 @@
 # GitHub Stats 📊
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JiaShin2000&show_icons=true&locale=en&layout=compact&theme=transparent" alt="JiaShin2000" height="200" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=JiaShin2000&show_icons=true&locale=en&theme=transparent&include_all_commits=true" alt="JiaShin2000" height="200" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaShin2000&theme=transparent" alt="JiaShin2000" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JiaShin2000&show_icons=true&locale=en&layout=compact&theme=transparent" alt="JiaShin2000" height="200" />
 </div>
 
 <picture>
