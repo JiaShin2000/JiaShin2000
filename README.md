@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=JiaShin2000&label=Profile%20views&color=0e75b6&style=flat" alt="JiaShin2000" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JiaShin2000&row=1&margin-w=15&theme=algolia&no-bg=true" alt="JiaShin2000" /></a>
 
-- 👨‍💻 I’m currently working on **Personal Portfolio**
+- 👨‍💻 I’m currently working on [Personal Portfolio](https://jiashin.vercel.app/)
 
 - 📁 All of my projects are available at [GitHub](https://github.com/JiaShin2000?tab=repositories)
 
